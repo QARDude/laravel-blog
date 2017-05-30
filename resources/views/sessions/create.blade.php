@@ -18,7 +18,7 @@
                 <input type="password" id="password" class="form-control" name="password" required></input>
             </div>
             <div class="form-group">
-                <button type="submit" class="btn btn-primary">Register</button>
+                <button type="submit" class="btn btn-primary">Login</button>
             </div>
 
                 @include('layouts.errors')
